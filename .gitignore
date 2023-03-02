@@ -7,7 +7,7 @@ Backup/
 *.dmp
 CrashAutoSave.*
 
-*.[0-10000000].toe
+*.*.toe
 
 #==TDDiffusionAPI==
 lexica_image/
