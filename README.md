@@ -45,7 +45,8 @@ Use issues request or discord server to suggest tasks
 ## Extened
 by @yeataro
 
-- [x] Script
+- [x] Custom server address (you can use remote or LAN server)
+- [x] Script (Use list input args)
 - [x] Inpainting
 
 ![image](https://user-images.githubusercontent.com/13723054/222918786-5dcbc53f-c42c-4e38-93a6-5788b16b9d10.png)
