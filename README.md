@@ -41,3 +41,9 @@ Use issues request or discord server to suggest tasks
 - [x] Samplers
 - [x] In App anotation
 - [x] CLIP interrogator
+
+## Extened
+by @yeataro
+
+- [x] Script
+- [x] Inpainting
